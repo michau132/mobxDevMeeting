@@ -1,0 +1,19 @@
+.sortWrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  height: fit-content;
+  margin-right: 40px;
+}
+
+.soldProducts {
+  margin-top: 20px;
+  display: inline-block;
+}
